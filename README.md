@@ -8,7 +8,7 @@
 
 **Ссылка**
 
-https://alleaxxrmca.github.io/DssAlternativeV3/
+https://Stvoleg.github.io/DssAlternativeV3/
 
 ![Создание задачи](https://i.ibb.co/qB4ddc8/image.png)
 
